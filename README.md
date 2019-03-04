@@ -1,2 +1,2 @@
-# pyserver
+# PyServer
 Server in Python
